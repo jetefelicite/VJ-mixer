@@ -29,13 +29,10 @@ This is a **customized video mixer built in TouchDesigner**, designed for **real
 ##  Code & Patch Breakdown  
 Since TouchDesigner doesn’t store all code in a single file, here’s how to navigate my modifications:
 
-1. **Python Scripts**  
-   - Found in the **`/scripts`** folder  
-   - Handles **audio-reactive logic & automation**  
+1. **Python Scripts**   
    - Example: Adjusting parameters dynamically based on volume levels  
 
-2. **GLSL Shaders**  
-   - Located in the **`/shaders`** folder  
+2. **GLSL Shaders**   
    - Used for **visual effects, color blending, and motion transformations**  
 
 3. **TouchDesigner Node Setup**  
