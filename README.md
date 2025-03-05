@@ -1,6 +1,6 @@
 # Custom Music-Reactive Video Mixer (TouchDesigner)
 
-## 📌 Overview
+##  Overview
 This is a **customized video mixer built in TouchDesigner**, designed for **real-time VJing** with **music-reactive visuals**. I modified an existing open-source project from Richard-Burns to integrate my own **assets, effects, and workflows**, allowing for **structured, audio-reactive visuals** and enhanced performance in a live setting.
 
 ##  Features  
